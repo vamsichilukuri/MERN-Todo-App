@@ -1,6 +1,6 @@
 # MERN Todo App
 
-> This simple todo app. which you can add your todo's and store them, edit, finsh and delete todo's.
+> This simple todo app. which you can add your todo's and store them, edit, finish and delete todo's.
 
 ## React js
 
